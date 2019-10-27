@@ -6,7 +6,7 @@ After clone this project, **init this modules**.
 
 > git submodule init && git submodule update
 
-## # [API](https://github.com/Domeniqque/gostack-meetup-api) (first)
+## [API](https://github.com/Domeniqque/gostack-meetup-api) (first)
 
 Install packages on **API** directory
 
@@ -42,7 +42,7 @@ Finaly, run the API
 
 Awesome, your application is available on `http://localhost:3333`.
 
-## # [Web](https://github.com/Domeniqque/gostack-meetup-web)
+## [Web](https://github.com/Domeniqque/gostack-meetup-web)
 
 Make sure **API** and **Reactotron** are available.
 
@@ -52,7 +52,7 @@ Install packages on **web** directory and start the application
 
 All right, your application is available on `http://localhost:3000`
 
-## # [Mobile](https://github.com/Domeniqque/gostack-meetup-mobile)
+## [Mobile](https://github.com/Domeniqque/gostack-meetup-mobile)
 
 The mobile application was available for **IOS** only and was tested on **iPhone X** simulator with IOS 12.4.
 
