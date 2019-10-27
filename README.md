@@ -2,6 +2,10 @@
 
 > Rocketseat Bootcamp
 
+After clone this project, **init this modules**.
+
+> git submodule init && git submodule update
+
 ## # [API](https://github.com/Domeniqque/gostack-meetup-api) (first)
 
 Install packages on **API** directory
