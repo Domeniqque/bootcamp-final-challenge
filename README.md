@@ -1,8 +1,8 @@
-# Rocketseat Bootcamp
+# Final Challenge - MeetApp
 
-## Final Challenge - MeetApp
+> Rocketseat Bootcamp
 
-#### API (first)
+## API (first)
 
 Install packages on **API** directory
 
@@ -38,7 +38,7 @@ Finaly, run the API
 
 Awesome, your application is available on `http://localhost:3333`.
 
-#### Web
+## Web
 
 Make sure **API** and **Reactotron** are available.
 
@@ -48,7 +48,7 @@ Install packages on **web** directory and start the application
 
 All right, your application is available on `http://localhost:3000`
 
-#### Mobile
+## Mobile
 
 The mobile application was available for **IOS** only and was tested on **iPhone X** simulator with IOS 12.4.
 
