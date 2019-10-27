@@ -1,0 +1,9 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:Domeniqque/gostack-meetup-api.git
+[submodule "web"]
+	path = web
+	url = git@github.com:Domeniqque/gostack-meetup-web.git
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:Domeniqque/gostack-meetup-mobile.git
