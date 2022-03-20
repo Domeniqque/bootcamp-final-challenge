@@ -19,7 +19,7 @@ Create and organize your meetup events and let people see the details about each
 
 <br/>
 
-### Final Challenge of Rocketseat Bootcamp
+### Instructions
 
 After clone this project, **init this modules**.
 
