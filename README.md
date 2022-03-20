@@ -3,8 +3,10 @@
 Create and organize your meetup events and let people see the details about each event and confirm ther presence using an mobile app.
 
 ### Web
-<div>   
-  <img alt="Dashboard" src=".github/dashboard.gif" width="420px" />
+<div style="text-align: center">   
+  <p>
+    <img alt="Dashboard" src=".github/dashboard.gif" width="80%" />
+  </p>
 </div>
 
 ### Mobile
