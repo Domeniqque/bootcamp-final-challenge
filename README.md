@@ -3,6 +3,7 @@
 Create and organize your meetup events and let people see the details about each event and confirm ther presence using an mobile app.
 
 ### Web
+
 <div style="text-align: center">   
   <p>
     <img alt="Dashboard" src=".github/dashboard.gif" width="80%" />
@@ -10,6 +11,7 @@ Create and organize your meetup events and let people see the details about each
 </div>
 
 ### Mobile
+
 <div>
   <img src=".github/sign-in.gif" width="250">
   <img src=".github/subscription.gif" width="250">
